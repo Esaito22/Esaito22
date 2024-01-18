@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi my name is Esai Robles I am student at SouthWest and i am in tenth grade. 
+### I wanted to do game development casuse I have an interest in computers and also video games. So the idea of making games and created my own stuff was very cool to me. 
+### right now I dont really have an interest in projects or languages. 
 
 <!--
 **Esaito22/Esaito22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
